@@ -201,7 +201,6 @@ The free tier can sleep when idle and does not provide persistent local storage.
 
 ## License
 
-This repository does not currently include a formal license file. If you plan to distribute or publish it, consider adding one before public release.
 
 ## Contributing
 
